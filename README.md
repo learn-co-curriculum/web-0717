@@ -1,1 +1,1 @@
-# web-0717
+<iframe src="https://calendar.google.com/calendar/embed?src=flatironschool.com_d5pd3f5v58300i867vtqk8f6m8%40group.calendar.google.com&ctz=America/New_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
