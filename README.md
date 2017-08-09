@@ -9,7 +9,7 @@ Links to Avi's recent lectures and slides:
 
 2. [Sinatra AR CRUD lab code](https://github.com/aviflombaum/sinatra-ar-crud-lab-web-071717)
 
-3.  [Intro to Sinatra and MVC](https://www.youtube.com/watch?v=pmiqQiRRY3o&feature=youtu.be}
+3.  [Intro to Sinatra and MVC](https://www.youtube.com/watch?v=pmiqQiRRY3o&feature=youtu.be)
 [Intro to Sinatra and MVC slide deck](https://docs.google.com/presentation/d/1QXLa_GAXnW1iLHweLcw3LGbyRawZDxK7Sn1LvFe5ivs/edit#slide=id.g24238fe91a_0_0)
 
 4.  [Dynamic Routes slide](https://dl.dropboxusercontent.com/s/a3wwt3nyhz1ly16/2017-08-07%20at%205.40%20PM.png)
