@@ -8,3 +8,9 @@
 5. [Has Many Through and Object Architecture](https://www.youtube.com/watch?v=TcuLsROjws8) | [Code](https://github.com/learn-co-curriculum/oo-ruby-relationships-web-071717) | [My Pets](https://github.com/learn-co-curriculum/my-pets-modules-redo-071717)
 6. [Intro to SQL](https://www.youtube.com/watch?v=URy0ox_VjGs) | [Code](https://github.com/learn-co-curriculum/intro-to-sql-lecture-web-071717)
 7. [Adapters](https://www.youtube.com/watch?v=eJ9bVC3NClE) | [Code](https://github.com/learn-co-curriculum/adapters-web-071717)
+
+## Module 2
+1. The Internet
+2. Intro to Sinatra / MVC
+3. Forms
+4. [Sinatra and ActiveRecord Advanced Forms](video coming soon) | [Code](https://github.com/learn-co-curriculum/sinatra-forms-with-ar-associations-071717)
