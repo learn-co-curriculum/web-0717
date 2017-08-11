@@ -14,4 +14,4 @@
 2. Intro to Sinatra / MVC
 3. Forms
 4. [Sinatra and ActiveRecord Advanced Forms](https://www.youtube.com/watch?v=VT3GHwaf-LI) | [Code](https://github.com/learn-co-curriculum/sinatra-forms-with-ar-associations-071717)
-5. [Into to Rails](https://www.youtube.com/watch?v=qDyw3M6DuJ8)
+5. [Intro to Rails](https://www.youtube.com/watch?v=qDyw3M6DuJ8)
