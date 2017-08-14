@@ -15,3 +15,4 @@
 3. Forms
 4. [Sinatra and ActiveRecord Advanced Forms](https://www.youtube.com/watch?v=VT3GHwaf-LI) | [Code](https://github.com/learn-co-curriculum/sinatra-forms-with-ar-associations-071717)
 5. [Intro to Rails](https://www.youtube.com/watch?v=qDyw3M6DuJ8)
+6. [video coming soon]() | [Code](https://github.com/learn-co-curriculum/071717-rails-form-for)
