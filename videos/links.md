@@ -19,3 +19,8 @@
 7. [AR Validations and Forms](https://www.youtube.com/watch?v=u1yYuRN981Y) | [Code](https://github.com/learn-co-curriculum/web-071717-student-lister-02)
 8. [Sessions pt 1](https://www.youtube.com/watch?v=jlbc83eFrfg) | [Code](https://github.com/learn-co-curriculum/web-071717-student-lister-02)
 9. [Sessions pt 2 has secure password](https://www.youtube.com/watch?v=dJLoBylvPRw) | [Code](https://github.com/learn-co-curriculum/web-071717-student-lister-02)
+
+## Module 3
+| Date | Topic | Video | Code |
+| :--- | :---- | :---- | :--- |
+| 28.08.17 | Procedural JavaScript | [YouTube](https://www.youtube.com/watch?v=Hyx70iCpwTE&feature=youtu.be) | `No code`
