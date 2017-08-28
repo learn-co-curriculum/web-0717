@@ -24,3 +24,4 @@
 | Date | Topic | Video | Code |
 | :--- | :---- | :---- | :--- |
 | 28.08.17 | Procedural JavaScript | [YouTube](https://www.youtube.com/watch?v=Hyx70iCpwTE&feature=youtu.be) | `No code`
+| 28.08.17 | Variable Scope and Functions | [YouTube](https://youtu.be/COdFHDiRHjs) | [Variables and Basic Scope](https://gist.github.com/timothylevi/01153db601219ba3976f95ef7082880e) / [Hoisting and Functions](https://gist.github.com/timothylevi/2dbce774df28b1b44c95780cc2e24046)
