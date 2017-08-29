@@ -6,6 +6,7 @@
 | :--- | :---- | :---- | :--- |
 | 28.08.17 | Procedural JavaScript | [YouTube](https://www.youtube.com/watch?v=Hyx70iCpwTE&feature=youtu.be "Procedural JavaScript on YouTube") | `No code`
 | 28.08.17 | Variable Scope and Functions | [YouTube](https://youtu.be/COdFHDiRHjs "Variable Scope and Functions on YouTube") | [Variables and Basic Scope](https://gist.github.com/timothylevi/01153db601219ba3976f95ef7082880e "Variables and Basic Scope gist") / [Hoisting and Functions](https://gist.github.com/timothylevi/2dbce774df28b1b44c95780cc2e24046 "Hoisting and Functions gist")
+| 29.08.17 | Loops | [YouTube](https://youtu.be/TDXdTUTFddc "Loops on YouTube") | [Loops](https://github.com/learn-co-students/web-071717/tree/master/06-functional-javascript "Loops code on GitHub")
 
 ## Module 2
 1. The Internet
