@@ -13,7 +13,8 @@ _The lectures which introduce **programming paradigms** are **bolded**._
 | **29.08.17** | **Functional JavaScript** | [**YouTube**](https://youtu.be/1fz463UFwzE "Higher order functions and closure lecture on YouTube") | [**Functional JavaScript**](https://github.com/learn-co-students/web-071717/tree/master/06-functional-javascript "Functional JavaScript code on GitHub")
 | 29.08.17 | Functional JavaScript Techniques | [YouTube](https://youtu.be/ynK8FRRzuLo "Module and IIFE lecture on YouTube") | [Functional JavaScript](https://github.com/learn-co-students/web-071717/tree/master/06-functional-javascript "Functional JavaScript Techniques code on GitHub")
 | 30.08.17 | `this` | [YouTube](https://youtu.be/s0xDomKwADE "`this` and Object Creation lecture on YouTube") | [`this`](https://github.com/learn-co-students/web-071717/blob/master/07-object-oriented-javascript/this.js "`this` code on GitHub")
-| **30.08.17** | **Object-oriented JavaScript** | [**YouTube**](https://youtu.be/HJJp98w1tJg "Object-oriented JavaScript lecture on YouTube") | *`No code (yet)`*
+| **30.08.17** | **Object-oriented JavaScript** | [**YouTube**](https://youtu.be/HJJp98w1tJg "Object-oriented JavaScript lecture on YouTube") | [**Object creation**](https://github.com/learn-co-students/web-071717/blob/master/07-object-oriented-javascript/this.js "Object creation code on GitHub")
+| 01.09.17 | Document Object Model | [YouTube](http://youtu.be/HviM4evf5C4 "Document Object Model lecture on YouTube") | [Document Object Model](https://github.com/learn-co-students/web-071717/tree/master/08-the-dom "Document Object Model code on GitHub")
 
 ## Module 2
 1. The Internet
