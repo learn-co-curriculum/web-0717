@@ -1,5 +1,10 @@
 # Video Links
 
+## Computer Science
+- [Recursuon](https://www.youtube.com/watch?v=Ggg0ANKsKCo&feature=youtu.be)
+- [Bits & Bytes | Arrays & Linked Lists]
+- [Big O](https://www.youtube.com/watch?v=M5kZTcggpNQ&feature=youtu.be)
+
 
 ## [Module 3](https://www.youtube.com/playlist?list=PLc6AmvC5ZybwTFv0VzvpVuxhHsbKpxi_H "web-071717 YouTube playlist")
 
