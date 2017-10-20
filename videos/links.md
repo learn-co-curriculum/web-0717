@@ -1,7 +1,7 @@
 # Video Links
 
 ## Computer Science
-- [Recursuon](https://www.youtube.com/watch?v=Ggg0ANKsKCo&feature=youtu.be)
+- [Recursion](https://www.youtube.com/watch?v=Ggg0ANKsKCo&feature=youtu.be)
 - [Bits & Bytes | Arrays & Linked Lists]
 - [Big O](https://www.youtube.com/watch?v=M5kZTcggpNQ&feature=youtu.be)
 
