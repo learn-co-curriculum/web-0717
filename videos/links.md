@@ -1,9 +1,10 @@
 # Video Links
 
 ## Computer Science
-- [Recursion](https://www.youtube.com/watch?v=Ggg0ANKsKCo&feature=youtu.be)
+- [Recursion](https://www.youtube.com/watch?v=Ggg0ANKsKCo&feature=youtu.be) | [Problems](https://github.com/alexgriff/wdf_recursion_exercises)
 - [Bits & Bytes | Arrays & Linked Lists]
 - [Big O](https://www.youtube.com/watch?v=M5kZTcggpNQ&feature=youtu.be)
+- [Sorting](http://youtu.be/-7UAHaPbick) | [Code](https://github.com/alexgriff/intro-to-sorting)
 
 
 ## [Module 3](https://www.youtube.com/playlist?list=PLc6AmvC5ZybwTFv0VzvpVuxhHsbKpxi_H "web-071717 YouTube playlist")
