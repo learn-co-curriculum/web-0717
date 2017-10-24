@@ -5,6 +5,7 @@
 - [Bits & Bytes | Arrays & Linked Lists]
 - [Big O](https://www.youtube.com/watch?v=M5kZTcggpNQ&feature=youtu.be)
 - [Sorting](http://youtu.be/-7UAHaPbick) | [Code](https://github.com/alexgriff/intro-to-sorting)
+- [Binary Search Tree](http://youtu.be/-AQ8L2n8G5Y) | [Code](https://github.com/learn-co-curriculum/intro-bst)
 
 
 ## [Module 3](https://www.youtube.com/playlist?list=PLc6AmvC5ZybwTFv0VzvpVuxhHsbKpxi_H "web-071717 YouTube playlist")
